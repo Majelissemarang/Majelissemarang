@@ -22,10 +22,10 @@ Majelis Semarang Adalah Media Informasi Digital Tentang Islam Yang Berdiri Atau 
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Portfolio</h3>
+      <h3 align="center">Website</h3>
         <br />
         <a target="_blank" href="https://majelissemarang.github.io/official/">
-            <img src="./image/majelissemarang.png" width="100%" alt=""/>
+            <img src="" width="100%" alt=""/>
         </a>
         <br />
         <p align="center">
