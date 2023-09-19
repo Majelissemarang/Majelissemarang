@@ -1,16 +1,39 @@
-### Hi there 👋
+<p align="center">
+  <a href="" target="_blank" rel="noreferrer"><img src="g" alt=""></a>
+</p>
 
-<!--
-**Majelissemarang/Majelissemarang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Hi there, I'm <a href="https://majelissemarang.github.io/official/" target="_blank" rel="noreferrer">Majelis&nbsp;Semarang</a> 
+</h3>
 
-Here are some ideas to get you started:
+<h2 align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</h2> 
+
+Majelis Semarang Adalah Media Informasi Digital Tentang Islam Yang Berdiri Atau Terbentuk Di Kota Semarang
+### Connect with me:
+
+<a href="mailto:infopengajiansemarang@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" width="100px"/></a>
+<a href="https://www.tiktok.com/@infopengajiansemarang"><img align="left" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="" width="100px"/></a>
+</br>
+# Website ⚙️
+
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio</h3>
+        <br />
+        <a target="_blank" href="https://majelissemarang.github.io/official/">
+            <img src="./image/majelissemarang.png" width="100%" alt=""/>
+        </a>
+        <br />
+        <p align="center">
+          <br>
+  <a href="https://majelissemarang.github.io/official/" target="_blank">
+    <img src="./image/majelissemarang.png"/>
+  </a>
+      </p>
+        <p><strong>Majelis Semarang</strong> -  Web Media Islami</p>
+    </td>
+    <td width="50%" valign="top">
